@@ -125,9 +125,9 @@ ul, ol {
 	color: #fff;
 }
 .btn-default {
-	color: #76818d;
+	color: #3c5570;
 	background-color: transparent;
-	border-color: #76818d;
+	border-color: #3c5570;
 	margin: 0 10px;
 	font-size: 16px;
 }
@@ -737,17 +737,19 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-weight: 600;
 	letter-spacing: -2px;
 	color: #2c3e50;
+
 }
 .intro .intro-body .intro-text {
 	float: left;
 	text-align: center;
 	max-width: 75%;
 }
+
 .intro .intro-body .intro-text p {
 	font-family: 'Lato', sans-serif;
 	font-size: 20px;
 	margin-bottom: 40px;
-	color: #76818d;
+	color: #3f6083;
 	margin-top: 20px;
 }
 section {
